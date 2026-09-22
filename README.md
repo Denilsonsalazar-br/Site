@@ -1,2 +1,3 @@
 # Site-Teste
-Primeiro repositório
+Repositório GitHub para fins de estudo acadêmico UDF.
+
